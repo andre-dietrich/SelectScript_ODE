@@ -17,7 +17,7 @@ $ sudo python setup.py install
 The video is a screencasts of the examples provide within this project and shall
 provide a first insight on the application of SelectScript for ODE.
 
-<iframe width="560" height="350"  src="http://www.youtube.com/embed/F1XNch1JC9Y" frameborder="0" allowfullscreen></iframe>
+[![YouTube](http://img.youtube.com/vi/F1XNch1JC9Y/0.jpg)](http://www.youtube.com/watch?v=F1XNch1JC9Y "watch on YouTube")
 
 
 ## Contact
