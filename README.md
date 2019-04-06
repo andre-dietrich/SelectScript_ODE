@@ -1,10 +1,9 @@
 # SelectScript_ODE
 
-| | |
+| Author      | André Dietrich                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------- |
-| Authors     | André Dietrich & Sebastian Zug                                                           |
-| Source      | `git clone` https://gitlab.com/OvGU-ESS/SelectScript_ODE.git                             |
-| Email       | <mailto:dietrich@ivs.cs.uni-magdeburg.de> & <mailto:zug@ivs.cs.uni-magdeburg.de>         |
+| Source      | `git clone` https://gitlab.com/andre-dietrich/SelectScript_ODE.git                       |
+| Email       | <mailto:andre.dietrich@ovgu.de>                                                          |
 | Publication | 1. SelectScript: A query language for robotic world models and simulations               |
 |             | http://eos.cs.ovgu.de/wp-content/uploads/2015/06/SelectScript-A-Query-Language-for-Robotic-World-Models-and-Simulations.pdf |
 |             | 2. Reasoning in complex environments with the SelectScript declarative language          |
@@ -17,11 +16,11 @@
 
 SelectScript implementation for the Open Dynamics Engine (ODE).
 
-See main project at: https://gitlab.com/OvGU-ESS/SelectScript.git
+See main project at: https://gitlab.com/andre-dietrich/SelectScript.git
 
 ## Installation
 
-First of all you need to install the [SelectScript](https://gitlab.com/OvGU-ESS/SelectScript.git)!
+First of all you need to install the [SelectScript](https://gitlab.com/andre-dietrich/SelectScript.git)!
 
 then via Python setuptools:
 ```
